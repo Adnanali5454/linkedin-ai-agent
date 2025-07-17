@@ -1,0 +1,7 @@
+openai
+flask
+requests
+python-dotenv
+schedule
+beautifulsoup4
+selenium
